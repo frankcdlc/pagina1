@@ -1,0 +1,31 @@
+html {
+    background-color: blue;   /*esto es un comentario en css*/
+    font-family: 'Dancing Script', cursive;
+}
+h2{
+    color: rgb(180, 16, 172);
+    margin: 0 auto;
+    padding: 20px 0;
+    text-shadow: 3px 3px 5px black;
+    background-color: chartreuse;
+    text-align-last: center;
+    font-size: 60px;
+}
+
+body {
+    background-color: rgb(101, 164, 179);
+    width: 600px;
+    margin: 0 auto;
+    padding: 0px 30px 30px 30px;
+    border: 5px solid rgb(1, 6, 8);
+    font-size: 20px;
+    
+  }
+
+  img {
+      display:block;
+      margin: 0 auto;
+  }
+  p {
+      text-align: justify;
+  }
